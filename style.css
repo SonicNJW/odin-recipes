@@ -1,0 +1,19 @@
+li {
+    background-color: green;
+}
+
+a {
+    background-color: blue;
+    color: white;
+}
+
+h1 {
+    background-color: bisque;
+    color: blueviolet;
+}
+
+h4 {
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
