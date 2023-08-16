@@ -17,3 +17,8 @@ h4 {
     color: white;
     font-family: 'Times New Roman', Times, serif;
 }
+
+.image {
+    height: auto;
+    width: 200px;
+}
